@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>Kiran Mody</h1>
-  <p>Welcome to my personal website! Stay tuned for more updates.</p>
+  <p>hello! thanks for visiting. tyshh 😭 .</p>
 </body>
 </html>
 
