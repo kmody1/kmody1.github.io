@@ -3,7 +3,7 @@
 <body>
 
 <h1>Welcome Roasti.</h1>
-<p>Thank you for visiting my website! :)</p>
+<p></p>
 
 </body>
 </html>
