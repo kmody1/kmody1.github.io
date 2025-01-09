@@ -3,7 +3,7 @@
 <body>
 
 <h1>Welcome.</h1>
-<p>HELLO PIMPSONE JERRYZHAO</p>
+<p>Thank you for visiting my website! :)</p>
 
 </body>
 </html>
